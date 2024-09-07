@@ -1,4 +1,4 @@
-# Welcome to Qingchao Yu （余庆超）'s homepage!
+# Welcome to Qingchao Yu(余庆超)'s homepage!
 
 - Institute for Advanced Study, Shenzhen University
 - Shenzhen, China
