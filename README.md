@@ -51,10 +51,12 @@
 - [2023 Global Young Scholars' Forum](https://hkumath.hku.hk/~imr/event/RTNT_2023/index.pdf), The Chinese University of Hong Kong (Shenzhen), December 2023.  
 
 - [Westlake Math Colloquium](https://its.westlake.edu.cn/info/1166/1840.htm), Westlake University, August, 2023 
-  
+
+- [Seminar at BICMR](https://bicmr.pku.edu.cn/content/show/44-2491.html), Beijing University, May 2021
+
 - AI for Mathematics Forum, Beijing University, August, 2023
 
-- Seminar at BICMR, Beijing University, May 2021
+
 
 ## Teaching
 Teaching assistant for undergraduate students, three semesters, University of Chinese Academy of Sciences.
