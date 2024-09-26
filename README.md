@@ -27,9 +27,9 @@
 
 
 # Paper
-- Xuhua He and Qingchao Yu, [*Dimension formula for the affine Deligne-Lusztig variety $X(\mu, b)$*](https://arxiv.org/pdf/2005.09799.pdf). **Mathematische Annalen 379**, 1747-1765(2021).
+- Xuhua He and Qingchao Yu, [*Dimension formula for the affine Deligne-Lusztig variety $X(\mu, b)$*](https://arxiv.org/pdf/2005.09799.pdf). **Mathematische Annalen** 379, 1747-1765(2021).
 
-- Xuhua He, Sian Nie and Qingchao Yu, [*Affine Deligne-Lusztig varieties with finite Coxeter parts*](https://arxiv.org/pdf/2208.14058.pdf), to appear in **Algebra and Number Theory**  18, No. 9, 1681–1714(2024)
+- Xuhua He, Sian Nie and Qingchao Yu, [*Affine Deligne-Lusztig varieties with finite Coxeter parts*](https://arxiv.org/pdf/2208.14058.pdf). **Algebra and Number Theory**  18, No. 9, 1681–1714(2024)
 
 - Bin Dong, Xuhua He, Pengfei Jin, Felix Schremmer, Qingchao Yu, [*Machine learning assisted exploration for affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2308.11355), **Peking Mathematical Journal(2024)**.
   
