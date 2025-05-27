@@ -32,10 +32,16 @@
 - Xuhua He, Sian Nie and Qingchao Yu, [*Affine Deligne-Lusztig varieties with finite Coxeter parts*](https://arxiv.org/pdf/2208.14058.pdf). **Algebra and Number Theory**  18, No. 9, 1681–1714(2024)
 
 - Bin Dong, Xuhua He, Pengfei Jin, Felix Schremmer, Qingchao Yu, [*Machine learning assisted exploration for affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2308.11355), **Peking Mathematical Journal(2024)**.
-  
+
+- Sian Nie, Panjun Tan, Qingchao Yu, [*Convex elements and Steinberg's cross-sections*](https://arxiv.org/pdf/2410.18865), **to appear in Advances in Mathematics**.
+
+- Xuhua He, Qingchao Yu, [*Irreducibility of Local Models*](https://arxiv.org/pdf/2412.16575), ArXiv:2412.16575.
+
 - Felix Schremmer, Ryosuke Shimada, Qingchao Yu, [*Affine Deligne-Lusztig varieties for finite Coxeter type elements*](https://arxiv.org/pdf/2312.02630.pdf). ArXiv:2312.02630.
 
 - Xuhua He, Sian Nie and Qingchao Yu, [*Zero dimensional affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2402.15310.pdf), ArXiv:2402.15310.
+
+
 
 
 ## Invited Talks
