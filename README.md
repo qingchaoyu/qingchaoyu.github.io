@@ -45,6 +45,10 @@
 
 
 ## Invited Talks
+- [HKU Workshop on Lie Theory and Related Topics](https://hkumath.hku.hk/MathWWW/event/2025/UTF-8Workshop_Schedule.pdf), the University of Hong Kong, May 2025
+
+- [WORKSHOP ON ARITHMETIC GEOMETRY](https://hkumath.hku.hk/MathWWW/event/2024/Workshop_Arithmetic_Geometry.pdf), the University of Hong Kong, December 2024
+
 - [Representation Theory and Number Theory Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/representation-theory-and-number-theory/), National University of Singapore, Singapore, August 2024
 
 - [The 2023 Annual International Congress of Chinese Mathematicians (ICCM2023)](https://iccm.tsinghua.edu.cn/iccm2023), Shanghai, China, January 2024
@@ -66,4 +70,4 @@
 
 
 ## Teaching
-Teaching assistant for undergraduate students, three semesters, University of Chinese Academy of Sciences.
+Basis Algebra, Mathematical Analysis.
