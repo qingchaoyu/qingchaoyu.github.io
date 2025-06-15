@@ -33,7 +33,7 @@
 
 - Bin Dong, Xuhua He, Pengfei Jin, Felix Schremmer, Qingchao Yu, [*Machine learning assisted exploration for affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2308.11355), **Peking Mathematical Journal(2024)**.
 
-- Sian Nie, Panjun Tan, Qingchao Yu, [*Convex elements and Steinberg's cross-sections*](https://arxiv.org/pdf/2410.18865), **to appear in Advances in Mathematics**.
+- Sian Nie, Panjun Tan, Qingchao Yu, [*Convex elements and Steinberg's cross-sections*](https://arxiv.org/pdf/2410.18865), **Advances in Mathematics** 475 (2025), Paper No. 110346; MR4905421.
 
 - Xuhua He, Qingchao Yu, [*Irreducibility of Local Models*](https://arxiv.org/pdf/2412.16575), ArXiv:2412.16575.
 
