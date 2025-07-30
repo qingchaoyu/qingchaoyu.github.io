@@ -39,7 +39,12 @@
 
 - Felix Schremmer, Ryosuke Shimada, Qingchao Yu, [*Affine Deligne-Lusztig varieties for finite Coxeter type elements*](https://arxiv.org/pdf/2312.02630.pdf). ArXiv:2312.02630.
 
-- Xuhua He, Sian Nie and Qingchao Yu, [*Zero dimensional affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2402.15310.pdf), ArXiv:2402.15310.
+- Xuhua He, Sian Nie, Qingchao Yu, [*Zero dimensional affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2402.15310.pdf), ArXiv:2402.15310.
+
+- Sian Nie, Felix Schremmer, Qingchao Yu, [*Lifting Deligne-Lusztig Reduction and Geometric Coxeter Type Elements
+*]([https://arxiv.org/pdf/2402.15310.pdf](https://arxiv.org/pdf/2507.18453)), arXiv:2507.18453.
+.
+
 
 
 
