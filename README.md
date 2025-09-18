@@ -11,7 +11,7 @@
 
 
 ## Research field
-- Algebraic groups, representation theory, arithmetic geometry, AI for mathematics.
+- Algebraic groups, representation theory, arithmetic geometry.
 
 ## Education
 - 2015-2021  Ph.D. Academy of Mathematics and System Science, Chinese Academy of Science Advisor: Nanhua Xi
