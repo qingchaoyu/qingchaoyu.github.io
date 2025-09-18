@@ -43,6 +43,7 @@
 
 - Sian Nie, Felix Schremmer, Qingchao Yu, [*Lifting Deligne-Lusztig Reduction and Geometric Coxeter Type Elements*](https://arxiv.org/pdf/2507.18453), arXiv:2507.18453.
 
+- Xuhua He, Qingchao Yu, [*Dual Shellability of Admissible Set and Cohen-Macaulayness of Local Models*](https://arxiv.org/pdf/2509.11581), arXiv:2509.11581.
 
 
 
