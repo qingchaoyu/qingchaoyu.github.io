@@ -49,7 +49,11 @@
 
 
 ## Invited Talks
+- [The Tenth Triennial International Congress of Chinese Mathematicians](https://2025iccm.simis.cn/iccm2025/site/), Shanghai, January 2026
+
 - [HKU Workshop on Lie Theory and Related Topics](https://hkumath.hku.hk/MathWWW/event/2025/UTF-8Workshop_Schedule.pdf), the University of Hong Kong, May 2025
+  
+- [Workshop on Affine Deligne-Lusztig varieties and Related topics](https://scms.fudan.edu.cn/info/5743/8631_1.htm), SCMS, Fudan University, March 2025
 
 - [WORKSHOP ON ARITHMETIC GEOMETRY](https://hkumath.hku.hk/MathWWW/event/2024/Workshop_Arithmetic_Geometry.pdf), the University of Hong Kong, December 2024
 
