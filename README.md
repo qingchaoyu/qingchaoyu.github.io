@@ -45,7 +45,7 @@
 
 - Xuhua He, Qingchao Yu, [*Dual Shellability of Admissible Set and Cohen-Macaulayness of Local Models*](https://arxiv.org/pdf/2509.11581), ArXiv:2509.11581.
 
-
+- Xuhua He, Felix Schremmer, Qingchao Yu, [*Cohen-Macaulayness of Local Models via Shellability of the Admissible Set*](https://arxiv.org/pdf/2603.05875), ArXiv:2603.05875.
 
 
 ## Invited Talks
