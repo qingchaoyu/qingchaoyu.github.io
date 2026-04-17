@@ -27,6 +27,8 @@
 
 
 # Paper
+- Xuhua He, Sian Nie, Qingchao Yu, [*Zero dimensional affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2402.15310.pdf), ArXiv:2402.15310, to appear in American Journal of Mathematics.
+  
 - Xuhua He and Qingchao Yu, [*Dimension formula for the affine Deligne-Lusztig variety $X(\mu, b)$*](https://arxiv.org/pdf/2005.09799.pdf). **Mathematische Annalen** 379, 1747-1765(2021).
 
 - Xuhua He, Sian Nie and Qingchao Yu, [*Affine Deligne-Lusztig varieties with finite Coxeter parts*](https://arxiv.org/pdf/2208.14058.pdf). **Algebra and Number Theory**  18, No. 9, 1681–1714(2024)
@@ -39,7 +41,6 @@
 
 - Felix Schremmer, Ryosuke Shimada, Qingchao Yu, [*Affine Deligne-Lusztig varieties for finite Coxeter type elements*](https://arxiv.org/pdf/2312.02630.pdf), ArXiv:2312.02630.
 
-- Xuhua He, Sian Nie, Qingchao Yu, [*Zero dimensional affine Deligne-Lusztig varieties*](https://arxiv.org/pdf/2402.15310.pdf), ArXiv:2402.15310.
 
 - Sian Nie, Felix Schremmer, Qingchao Yu, [*Lifting Deligne-Lusztig Reduction and Geometric Coxeter Type Elements*](https://arxiv.org/pdf/2507.18453), ArXiv:2507.18453.
 
