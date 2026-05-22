@@ -48,6 +48,7 @@
 
 - Xuhua He, Felix Schremmer, Qingchao Yu, [*Cohen-Macaulayness of Local Models via Shellability of the Admissible Set*](https://arxiv.org/pdf/2603.05875), ArXiv:2603.05875.
 
+- Qingchao Yu, [*On the Face Map of the Admissible Set With Iwahori Level*](https://arxiv.org/pdf/2605.15657), ArXiv:2605.15657
 
 ## Invited Talks
 - [The Tenth Triennial International Congress of Chinese Mathematicians](https://2025iccm.simis.cn/iccm2025/site/), Shanghai, January 2026
