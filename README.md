@@ -80,4 +80,4 @@
 
 
 ## Teaching
-Basis Algebra, Mathematical Analysis.
+Linear Algebra, Mathematical Analysis.
