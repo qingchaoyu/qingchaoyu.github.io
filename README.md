@@ -37,18 +37,26 @@
 
 - Sian Nie, Panjun Tan, Qingchao Yu, [*Convex elements and Steinberg's cross-sections*](https://arxiv.org/pdf/2410.18865), **Advances in Mathematics** 475 (2025), Paper No. 110346; MR4905421.
 
+- Xuhua He, Qingchao Yu, [*Affine realization of tilted Richardson varieties*](https://arxiv.org/abs/2610.14991), ArXiv:2610.14991v1.
+
+- Qingchao Yu, [*On the Face Map of the Admissible Set With Iwahori Level*](https://arxiv.org/pdf/2605.15657), ArXiv:2605.15657
+
+- Xuhua He, Felix Schremmer, Qingchao Yu, [*Cohen-Macaulayness of Local Models via Shellability of the Admissible Set*](https://arxiv.org/pdf/2603.05875), ArXiv:2603.05875.
+
+- Xuhua He, Qingchao Yu, [*Dual Shellability of Admissible Set and Cohen-Macaulayness of Local Models*](https://arxiv.org/pdf/2509.11581), ArXiv:2509.11581.
+
+- Sian Nie, Felix Schremmer, Qingchao Yu, [*Lifting Deligne-Lusztig Reduction and Geometric Coxeter Type Elements*](https://arxiv.org/pdf/2507.18453), ArXiv:2507.18453.
+
 - Xuhua He, Qingchao Yu, [*Irreducibility of Local Models*](https://arxiv.org/pdf/2412.16575), ArXiv:2412.16575.
 
 - Felix Schremmer, Ryosuke Shimada, Qingchao Yu, [*Affine Deligne-Lusztig varieties for finite Coxeter type elements*](https://arxiv.org/pdf/2312.02630.pdf), ArXiv:2312.02630.
 
 
-- Sian Nie, Felix Schremmer, Qingchao Yu, [*Lifting Deligne-Lusztig Reduction and Geometric Coxeter Type Elements*](https://arxiv.org/pdf/2507.18453), ArXiv:2507.18453.
 
-- Xuhua He, Qingchao Yu, [*Dual Shellability of Admissible Set and Cohen-Macaulayness of Local Models*](https://arxiv.org/pdf/2509.11581), ArXiv:2509.11581.
 
-- Xuhua He, Felix Schremmer, Qingchao Yu, [*Cohen-Macaulayness of Local Models via Shellability of the Admissible Set*](https://arxiv.org/pdf/2603.05875), ArXiv:2603.05875.
 
-- Qingchao Yu, [*On the Face Map of the Admissible Set With Iwahori Level*](https://arxiv.org/pdf/2605.15657), ArXiv:2605.15657
+
+
 
 ## Invited Talks
 - [The Tenth Triennial International Congress of Chinese Mathematicians](https://2025iccm.simis.cn/iccm2025/site/), Shanghai, January 2026
