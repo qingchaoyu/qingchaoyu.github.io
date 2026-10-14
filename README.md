@@ -37,7 +37,7 @@
 
 - Sian Nie, Panjun Tan, Qingchao Yu, [*Convex elements and Steinberg's cross-sections*](https://arxiv.org/pdf/2410.18865), **Advances in Mathematics** 475 (2025), Paper No. 110346; MR4905421.
 
-- Xuhua He, Qingchao Yu, [*Affine Realization of Tilted Richardson Varieties*](https://arxiv.org/abs/2610.14991), ArXiv:2610.14991v1.
+- Xuhua He, Qingchao Yu, [*Affine Realization of Tilted Richardson Varieties*](https://arxiv.org/pdf/2610.14991), ArXiv:2610.14991v1.
 
 - Qingchao Yu, [*On the Face Map of the Admissible Set With Iwahori Level*](https://arxiv.org/pdf/2605.15657), ArXiv:2605.15657
 
